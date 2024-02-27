@@ -10,6 +10,8 @@ N/A
 
 ## Usage
 
+To see the website in action follow this link: https://shaneleejohnson.github.io/Shane-Johnson-Portfolio-Website/
+
 To use this website, the user just has to follow the link and can either scroll down the page to view the different sections or they can use the sidebar to navigate to a specific section that they are interested in. The social icons under my name in the sidebar can also be clicked on to take the user to the respective websites to see more information about me.
 
 ## Credits
